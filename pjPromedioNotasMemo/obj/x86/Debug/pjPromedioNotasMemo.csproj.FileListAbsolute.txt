@@ -1,0 +1,18 @@
+C:\Users\AD06\documents\visual studio 2010\Projects\pjPromedioNotasMemo\pjPromedioNotasMemo\bin\Debug\pjPromedioNotasMemo.exe
+C:\Users\AD06\documents\visual studio 2010\Projects\pjPromedioNotasMemo\pjPromedioNotasMemo\bin\Debug\pjPromedioNotasMemo.pdb
+C:\Users\AD06\documents\visual studio 2010\Projects\pjPromedioNotasMemo\pjPromedioNotasMemo\obj\x86\Debug\pjPromedioNotasMemo.Properties.Resources.resources
+C:\Users\AD06\documents\visual studio 2010\Projects\pjPromedioNotasMemo\pjPromedioNotasMemo\obj\x86\Debug\pjPromedioNotasMemo.csproj.GenerateResource.Cache
+C:\Users\AD06\documents\visual studio 2010\Projects\pjPromedioNotasMemo\pjPromedioNotasMemo\obj\x86\Debug\pjPromedioNotasMemo.exe
+C:\Users\AD06\documents\visual studio 2010\Projects\pjPromedioNotasMemo\pjPromedioNotasMemo\obj\x86\Debug\pjPromedioNotasMemo.pdb
+C:\Users\AD06\documents\visual studio 2010\Projects\pjPromedioNotasMemo\pjPromedioNotasMemo\obj\x86\Debug\pjPromedioNotasMemo.Form1.resources
+C:\Users\AD06\documents\visual studio 2010\Projects\pjPromedioNotasMemo\pjPromedioNotasMemo\obj\x86\Debug\pjPromedioNotasMemo.csprojResolveAssemblyReference.cache
+F:\4Trimestre\POO2\pjPromedioNotasMemo\pjPromedioNotasMemo\obj\x86\Debug\pjPromedioNotasMemo.exe
+F:\4Trimestre\POO2\pjPromedioNotasMemo\pjPromedioNotasMemo\obj\x86\Debug\pjPromedioNotasMemo.pdb
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\MEMORIA GRIS\otramemoria\4Trimestre\POO2\Proyectos\pjPromedioNotasMemo\pjPromedioNotasMemo\obj\x86\Debug\pjPromedioNotasMemo.exe
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\MEMORIA GRIS\otramemoria\4Trimestre\POO2\Proyectos\pjPromedioNotasMemo\pjPromedioNotasMemo\obj\x86\Debug\pjPromedioNotasMemo.pdb
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\MEMORIA GRIS\otramemoria\4Trimestre\POO2\Proyectos\pjPromedioNotasMemo\pjPromedioNotasMemo\bin\Debug\pjPromedioNotasMemo.exe
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\MEMORIA GRIS\otramemoria\4Trimestre\POO2\Proyectos\pjPromedioNotasMemo\pjPromedioNotasMemo\bin\Debug\pjPromedioNotasMemo.pdb
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\MEMORIA GRIS\otramemoria\4Trimestre\POO2\Proyectos\pjPromedioNotasMemo\pjPromedioNotasMemo\obj\x86\Debug\pjPromedioNotasMemo.csprojResolveAssemblyReference.cache
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\MEMORIA GRIS\otramemoria\4Trimestre\POO2\Proyectos\pjPromedioNotasMemo\pjPromedioNotasMemo\obj\x86\Debug\pjPromedioNotasMemo.Form1.resources
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\MEMORIA GRIS\otramemoria\4Trimestre\POO2\Proyectos\pjPromedioNotasMemo\pjPromedioNotasMemo\obj\x86\Debug\pjPromedioNotasMemo.Properties.Resources.resources
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\MEMORIA GRIS\otramemoria\4Trimestre\POO2\Proyectos\pjPromedioNotasMemo\pjPromedioNotasMemo\obj\x86\Debug\pjPromedioNotasMemo.csproj.GenerateResource.Cache
